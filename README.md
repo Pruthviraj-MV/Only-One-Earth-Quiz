@@ -12,3 +12,4 @@ and _are you aware how harmful we are to this Earth?_
 **Where to play**  
 To play this quiz, please navigate to **About** section visible in right side of this repo
 
+**New:** Now you can **quit** the game at any point of time
