@@ -13,5 +13,3 @@ and _are you aware how harmful we are to this Earth?_
 To play this quiz, please navigate to **About** section visible in right side of this repo
 
 **New:** Now you can **quit** the game at any point of time
-
-_OOPS Highscore is not working properly_
