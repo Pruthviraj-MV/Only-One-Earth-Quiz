@@ -225,7 +225,6 @@ for(var i=0; i<questionBank.length; i++)
     quitGame ();
     break; // recalled from my C knowledge and googled to use break
   }
-
 //   if(i==questionBank.length-1)
 //   {
 //     quitGame();
