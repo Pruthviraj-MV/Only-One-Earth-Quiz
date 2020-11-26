@@ -220,11 +220,11 @@ for(var i=0; i<questionBank.length; i++)
     game (questionBank[i].question, questionBank[i].answer, questionBank[i].options, questionBank[i].message)
     console.log(chalk.bold("↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓"));    
   }
-  else 
-  {
-    quitGame ();
-    break; // recalled from my C knowledge and googled to use break
-  }
+//   else 
+//   {
+//     quitGame ();
+//     break; // recalled from my C knowledge and googled to use break
+//   }
 
 //   if(i==questionBank.length-1)
 //   {
